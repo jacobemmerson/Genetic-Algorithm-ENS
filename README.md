@@ -2,5 +2,4 @@
 
 ## About
 
-This algorithm (GAENS) was developed to reroute transit routes using pre-existing bus routes through expansion and shrinking mutations based on an evolutionary algorithm. This project was designed and evaluated for CS3710 (Advanced Topics in AI: AI for Social Good) by Jacob Emmerson and Chris Hinson.
-
+This algorithm (GAENS) was developed to reroute transit routes using pre-existing bus routes through expansion and shrinking mutations based on an evolutionary algorithm. This project was designed and evaluated for CS3710 (Advanced Topics in AI: AI for Social Good) by Jacob Emmerson and Chris Hinson. Further work may be made to improve the algorithm's decision-making when selecting midpoint bus stops.
